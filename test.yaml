@@ -1,0 +1,6 @@
+apiVersion: aharbis.dev/v1alpha1
+kind: Foo
+metadata:
+  name: test
+spec:
+  dummy: foo
